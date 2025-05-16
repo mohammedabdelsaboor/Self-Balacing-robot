@@ -12,6 +12,7 @@ This repository presents the implementation of a two-wheeled self-balancing robo
 The primary objective of this project is to design and implement a real-time control system capable of maintaining the vertical balance of a two-wheeled mobile robot. This is achieved through continuous feedback from an Inertial Measurement Unit (MPU6050) and a closed-loop PID control algorithm.
 
 ---
+![IMG_0265](https://github.com/user-attachments/assets/0f9456c4-af40-45c2-a49a-6bac624c76b0)
 
 ## Hardware Components
 
